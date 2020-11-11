@@ -8,13 +8,13 @@
 
 ### I am Bruno Melo
 
-- 🔭 I'm a JS Developer who is passionate about Web Development, Cloud computing architecture, and open source.
+- 🔭  I'm a JS Developer who is passionate about Web Development, Cloud computing architecture, and open source.
 
-- 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
+- 🌱  I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
 
-- 🎣 I love fishing and playing CS:GO
+- 🎣  I love fishing and playing CS:GO
 
-- 📫 How to reach me: use the badges above 😃
+- 📫  How to reach me: use the badges above 😃
 
 
 ## Some of my Github Stats
