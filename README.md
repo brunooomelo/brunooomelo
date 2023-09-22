@@ -1,4 +1,10 @@
 <p align="center">
+ <samp>
+  Founder of the <a href="https://figurinhaszap.com">Figurinhaszap</a>
+ </samp>
+</p>
+
+<p align="center">
   <samp>
     <a href="https://twitter.com/brunooomelo">twitter</a> ·
     <a href="https://www.linkedin.com/in/brunooomelo">linkedin</a> ·
